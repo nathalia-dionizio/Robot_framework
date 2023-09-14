@@ -1,13 +1,12 @@
 Robot Framework 
 
-Neste projeto abordei a automatização web Amazon
-Com esses pequenos exemplos abordei o que geralmente a maioria dos QAs ultilizam no dia a dia.
+Neste projeto contem a automatização web Amazon
+Abordagem de pequenos exemplos.
 
 Automação de login e senha
 automação de preenchimentos de formulários 
 
 Fazer cadastro
-Login, senha
 Pesquisar um produto e adicionar ao carrinho
 
 A conta utilizada é meramente ilustrativa
